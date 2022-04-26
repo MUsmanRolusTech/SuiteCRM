@@ -1,0 +1,15 @@
+Tue Apr 26 10:23:54 2022 [1400046][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Tue Apr 26 10:23:54 2022 [1400046][1][FATAL] Email address save error
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Setting logger_file_name to ''.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Setting logger_file_ext to ''.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Log file extension can't be blank.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Log file extension can't be blank.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Setting logger_file_name to ''.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Setting logger_file_ext to ''.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Log file extension can't be blank.
+Tue Apr 26 10:23:55 2022 [1400046][1][SECURITY] Log file extension can't be blank.
+Tue Apr 26 10:50:51 2022 [1397932][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+Tue Apr 26 11:55:31 2022 [1855940][1][FATAL] User update error: Temp User is not retrieved at ID 5ba729dc-e7d7-c240-d934-626797ae1331, boolean given
+Tue Apr 26 11:55:31 2022 [1855940][1][FATAL] Email address save error
